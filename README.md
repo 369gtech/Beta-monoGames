@@ -1,2 +1,2 @@
-# Beta-monoGames
-Beta monoGames
+<h1>Beta-monoGames</h1>
+Beta monoGames is an evolution of <a href="https://github.com/369gtech/Alpha-monoGames">Alpha monoGames</a> where we add even more features, more levels and create more functionality to improve the game. We also want to listen to our community and here their suggestions to improving the game and have players, developers and investors vote on the direction of the games about to go Beta. By listening to the heart of the community we are building strong ties with our community because monoGames is more than just games "were building a sustainable gaming ecosystem together with our ever evolving community".
